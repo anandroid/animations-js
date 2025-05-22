@@ -1,0 +1,14 @@
+{
+  "name": "animations",
+  "version": "1.0.0",
+  "description": "Three.js bouncing ball demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
