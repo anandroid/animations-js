@@ -1,0 +1,13 @@
+{
+  "name": "animations",
+  "version": "1.0.0",
+  "description": "Three.js bouncing ball demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests configured\" && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
